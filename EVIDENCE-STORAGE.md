@@ -28,6 +28,6 @@ Millie Beau Limited - Confidential Complaints/
 ## CASE 60298156：已完成圖片保存（2026-10-11）
 - [Google Drive CASE 資料夾](https://drive.google.com/drive/folders/1Qb65VrhNVwlrL_TXMrDnsbQetOivQDU7)；由於內容有醫療和個資，勿設為 Anyone with the link。
 - [完整 57 張來源 JPEG ZIP](https://drive.google.com/file/d/1c74fsGWHm5muy3I9AwrSXzaYP6FBAih9/view)（附逐檔 SHA-256 清單；檔案來源為聊天可取得的 JPG）。
-- 分類 ZIP：WhatsApp 44 張、合約 2 張、療程系統 8 張、醫療文件 3 張，共 **57 張**，各自保存於對應的 Drive 子資料夾。WhatsApp、合約及療程亦有以 Google Docs 嵌入圖片方便即時閱讀（副本非原 JPG）；醫療 3 張另有獨立 JPG 及 Google Docs 閱覽副本。
+- **所有 57 張來源 JPG 都已作為單獨圖片上傳對應 Drive 子資料夾**：WhatsApp 44 張、合約 2 張、療程系統 8 張、醫療文件 3 張。除獨立 JPG 外，各組亦有分類 ZIP；WhatsApp、合約及療程有 Google Docs 可閱覽副本，醫療三張亦有 Google Docs 證據副本。經完整資料夾清單核對，各組無遺漏及無同名重複。
 - [完整保存索引](https://docs.google.com/document/d/17XK4Kld5P_WsVyRsuWYZOxR0aMPSmh_DU1FP4C_S3Cs/edit) 記錄來源分組、Google Drive 位置及核查結果。
-- 檔案已核對來源數量及 Drive 檔案大小；照片本身可能早於本次保存已由截圖或訊息平台處理，毋須將其宣稱為裝置拍攝未處理的原檔。
+- 檔案已核對來源數量及 Drive 單獨 JPG 檔案大小：57 張合共 **13,698,978 bytes**，與本地來源檔案總大小一致；照片本身可能早於本次保存已由截圖或訊息平台處理，毋須將其宣稱為裝置拍攝未處理的原檔。
