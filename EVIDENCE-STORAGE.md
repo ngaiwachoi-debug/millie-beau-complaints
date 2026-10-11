@@ -8,11 +8,11 @@
 ```
 Millie Beau Limited - Confidential Complaints/
   CASE-2026-001/
-    01_Original_WhatsApp/
-    02_Contracts_and_Transactions/
-    03_Treatment_and_Equipment/
-    04_Medical_and_Injury_RESTRICTED/
-    05_Official_Outgoing_and_Legal/
+    01_WhatsApp/
+    02_Contracts/
+    03_Treatment_Records/
+    04_Medical_Restricted/
+    05_Legal/
     06_Evidence_Index/
 ```
 
@@ -24,3 +24,10 @@ Millie Beau Limited - Confidential Complaints/
 5. GitHub 個案只記錄資料庫內的**不含身份資訊的證據編號**及存取負責人；如需連結，只供已授權人員在受控系統內使用。
 6. 如涉及訴訟預期，立即暫停例行刪檔並徵詢法律顧問；保留期由公司依法律責任與必要性制定。
 7. 客戶要求查閱個人資料，需另按香港適用的個人資料私隱程序處理。
+
+## CASE 60298156：已完成圖片保存（2026-10-11）
+- [Google Drive CASE 資料夾](https://drive.google.com/drive/folders/1Qb65VrhNVwlrL_TXMrDnsbQetOivQDU7)；由於內容有醫療和個資，勿設為 Anyone with the link。
+- [完整 57 張來源 JPEG ZIP](https://drive.google.com/file/d/1c74fsGWHm5muy3I9AwrSXzaYP6FBAih9/view)（附逐檔 SHA-256 清單；檔案來源為聊天可取得的 JPG）。
+- 分類 ZIP：WhatsApp 44 張、合約 2 張、療程系統 8 張、醫療文件 3 張，共 **57 張**，各自保存於對應的 Drive 子資料夾。WhatsApp、合約及療程亦有以 Google Docs 嵌入圖片方便即時閱讀（副本非原 JPG）；醫療 3 張另有獨立 JPG 及 Google Docs 閱覽副本。
+- [完整保存索引](https://docs.google.com/document/d/17XK4Kld5P_WsVyRsuWYZOxR0aMPSmh_DU1FP4C_S3Cs/edit) 記錄來源分組、Google Drive 位置及核查結果。
+- 檔案已核對來源數量及 Drive 檔案大小；照片本身可能早於本次保存已由截圖或訊息平台處理，毋須將其宣稱為裝置拍攝未處理的原檔。
