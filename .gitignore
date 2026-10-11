@@ -20,3 +20,10 @@
 *.p12
 *.env
 .env.*
+
+# Restricted evidence and authoring/verification support remain local.
+outputs/local-only-evidence/
+outputs/restricted/
+
+# This single workbook contains only de-identified assumptions and public case law.
+!outputs/legal-audit-2026-10-11/exposure-model.xlsx
