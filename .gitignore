@@ -25,5 +25,8 @@
 outputs/local-only-evidence/
 outputs/restricted/
 
+# Case-local restricted evidence and authoring support never enter Git.
+CASES/*/evidence/private-local/
+
 # This single workbook contains only de-identified assumptions and public case law.
-!outputs/legal-audit-2026-10-11/exposure-model.xlsx
+!CASES/case-90298156/financial/exposure-model.xlsx
