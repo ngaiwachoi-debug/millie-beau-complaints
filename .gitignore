@@ -1,0 +1,22 @@
+# Images, medical records and identifying evidence are NOT stored here.
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.heic
+*.pdf
+*.docx
+*.xlsx
+*.csv
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.zip
+*.7z
+*.key
+*.pem
+*.p12
+*.env
+.env.*
