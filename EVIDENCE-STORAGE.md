@@ -31,3 +31,10 @@ Millie Beau Limited - Confidential Complaints/
 - **所有 57 張來源 JPG 都已作為單獨圖片上傳對應 Drive 子資料夾**：WhatsApp 44 張、合約 2 張、療程系統 8 張、醫療文件 3 張。除獨立 JPG 外，各組亦有分類 ZIP；WhatsApp、合約及療程有 Google Docs 可閱覽副本，醫療三張亦有 Google Docs 證據副本。經完整資料夾清單核對，各組無遺漏及無同名重複。
 - [完整保存索引](https://docs.google.com/document/d/17XK4Kld5P_WsVyRsuWYZOxR0aMPSmh_DU1FP4C_S3Cs/edit) 記錄來源分組、Google Drive 位置及核查結果。
 - 檔案已核對來源數量及 Drive 單獨 JPG 檔案大小：57 張合共 **13,698,978 bytes**，與本地來源檔案總大小一致；照片本身可能早於本次保存已由截圖或訊息平台處理，毋須將其宣稱為裝置拍攝未處理的原檔。
+
+## 案件研究與後續資料
+
+- 來源核查結果、仍缺的原始資料及下一步分工，見[目前結果與下一步](ACTIONS/60298156-next-steps.md)。完成57張來源保存不等於已取得完整原生聊天、當日設備／DCD、醫療機構病歷、後續康復或保單。
+- 醫學逐項核對、來源雜湊及敏感工作副本只保存在本機受限附錄與受控證據流程；`outputs/restricted/`及`outputs/local-only-evidence/`排除Git追蹤。
+- GitHub的財務工作簿只含明示計劃假設及公開判例，不填客戶身分或詳細病歷。新臨床文件、原對話及付款憑證仍送入受控資料庫，GitHub只更新必要的去識別化結論。
+- 批准及實際對外發送後，將原始發送副本、附件和送達紀錄另行保存；未發送的草稿不放進「已發出」紀錄。
