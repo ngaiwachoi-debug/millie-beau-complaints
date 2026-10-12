@@ -8,7 +8,7 @@
 
 | 現行案件 | 舊編號 | 狀態 | 開始閱讀 |
 | --- | --- | --- | --- |
-| case-90298156 | 60298156、CASE-2026-001 | 12日補充證據已核對；關鍵調查待執行；未達成和解 | [案件首頁](CASES/case-90298156/README.md) |
+| case-90298156 | 60298156、CASE-2026-001 | 12日醫學及設備照片已初評；關鍵調查待執行；未達成和解 | [案件首頁](CASES/case-90298156/README.md) |
 
 ## 目前案件入口
 
@@ -17,6 +17,7 @@
 - [13日訊息草稿](CASES/case-90298156/responses/2026-10-13.md)，未批准、未發送
 - [完整研究包](CASES/case-90298156/audit/2026-10-11/README.md)
 - [12日補充證據更新](CASES/case-90298156/audit/2026-10-12/evidence-update.md)
+- [設備參數及時鐘初評](CASES/case-90298156/audit/2026-10-12/device-parameter-review.md)
 - [證據保存與存取](CASES/case-90298156/evidence/storage-and-access.md)
 
 ## 共用資料

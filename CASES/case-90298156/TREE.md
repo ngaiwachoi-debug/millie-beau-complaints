@@ -23,6 +23,7 @@ case-90298156/
 │   │   ├── 10-source-verification.md
 │   │   └── README.md
 │   └── 2026-10-12/
+│       ├── device-parameter-review.md
 │       └── evidence-update.md
 ├── evidence/
 │   ├── private-local/  [本機受限，不追蹤Git]
@@ -56,6 +57,7 @@ case-90298156/
 | 查看現行草稿及批准／發送狀態 | [responses/README.md](responses/README.md) |
 | 查看研究及來源 | [audit/2026-10-11/README.md](audit/2026-10-11/README.md) |
 | 查看新增證據及影響 | [audit/2026-10-12/evidence-update.md](audit/2026-10-12/evidence-update.md) |
+| 查設備設定及時鐘限制 | [audit/2026-10-12/device-parameter-review.md](audit/2026-10-12/device-parameter-review.md) |
 | 使用財務模型 | [financial/README.md](financial/README.md) |
 | 查找證據位置與可及限制 | [evidence/README.md](evidence/README.md) |
 
