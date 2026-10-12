@@ -18,7 +18,9 @@ millie-beau-complaints/
 │       ├── CASE.md                   現行案卷
 │       ├── actions/                  結果與待辦
 │       ├── responses/                現行草稿、狀態及舊回覆
-│       ├── audit/2026-10-11/         完整管理層研究
+│       ├── audit/                    按核查日期保存研究
+│       │   ├── 2026-10-11/          完整管理層研究
+│       │   └── 2026-10-12/          補充證據及決策更新
 │       ├── financial/                模型與使用說明
 │       ├── evidence/                 外部證據存取登記
 │       │   └── private-local/        本機受限副本，不在GitHub

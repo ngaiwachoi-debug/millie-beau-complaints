@@ -40,11 +40,20 @@ Millie Beau Limited - Confidential Complaints/
 | --- | --- |
 | 醫學、對話及原圖逐項核對 | `evidence/private-local/restricted/medical-evidence-and-source-audit.md` |
 | 57個來源成員的SHA-256清單 | `evidence/private-local/restricted/source-register.csv` |
+| 12日三檔醫學逐項核對及補充雜湊 | `evidence/private-local/restricted/medical-evidence-update-2026-10-12.md`及`source-register-2026-10-12.csv` |
+| 12日三檔位元組副本 | `evidence/private-local/source-work/new-evidence-2026-10-12/`，保留收到的原檔名 |
+| 12日收件、來源及中繼資料登記 | `evidence/private-local/source-work/new-evidence-2026-10-12-manifest.json` |
 | 來源工作副本、OCR及manifest | `evidence/private-local/source-work/` |
 | 模型核查與重建支援 | `evidence/private-local/source-work/build_workbook.py` |
 | 本次移動路徑及模型原雜湊 | `evidence/private-local/source-work/structure-migration.json` |
 
 工作副本已移到本案資料夾；manifest中的本機路徑相應更新，原始圖片檔名及位元組照存。其他代理沒有本機檔案或外部存取時，記錄未取得，不能宣稱已閱原件。
+
+## 2026年10月12日補充收件
+
+本對話新增EV-010至EV-012，一份醫療備忘錄照片及兩張傷勢照片，共三個檔案、274,861 bytes。已在本機受限目錄逐檔核對副本SHA-256與來源相同，目錄700、檔案600，原檔未改動。沒有可用嵌入日期；使用者確認兩張照片在9日Raffles求醫當日拍攝，記錄為使用者陳述而非裝置日期驗證。
+
+新三檔與原57成員沒有相同SHA-256，但尚不能排除同一內容經壓縮或遮蓋重傳。原57檔Drive／ZIP記錄維持11日基準；新三檔外部備份尚未確認，未加入Git，沒有更改共享權限。累計60個收到的檔案不能當作60項獨立事件證據。必要結論見[12日補充更新](../audit/2026-10-12/evidence-update.md)。
 
 ## 仍需取得及後續保存
 

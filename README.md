@@ -8,7 +8,7 @@
 
 | 現行案件 | 舊編號 | 狀態 | 開始閱讀 |
 | --- | --- | --- | --- |
-| case-90298156 | 60298156、CASE-2026-001 | 研究完成；關鍵調查待執行；未達成和解 | [案件首頁](CASES/case-90298156/README.md) |
+| case-90298156 | 60298156、CASE-2026-001 | 12日補充證據已核對；關鍵調查待執行；未達成和解 | [案件首頁](CASES/case-90298156/README.md) |
 
 ## 目前案件入口
 
@@ -16,6 +16,7 @@
 - [核查結果及下一步](CASES/case-90298156/actions/next-steps.md)
 - [13日訊息草稿](CASES/case-90298156/responses/2026-10-13.md)，未批准、未發送
 - [完整研究包](CASES/case-90298156/audit/2026-10-11/README.md)
+- [12日補充證據更新](CASES/case-90298156/audit/2026-10-12/evidence-update.md)
 - [證據保存與存取](CASES/case-90298156/evidence/storage-and-access.md)
 
 ## 共用資料

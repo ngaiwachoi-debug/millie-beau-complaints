@@ -9,19 +9,21 @@ case-90298156/
 ├── archive/
 │   └── legacy-case-index.md
 ├── audit/
-│   └── 2026-10-11/
-│       ├── 00-management-summary.md
-│       ├── 01-executive-decision-memo.md
-│       ├── 02-evidence-liability-matrix.md
-│       ├── 03-legal-liability.md
-│       ├── 04-case-law-comparison.md
-│       ├── 05-medical-risk.md
-│       ├── 06-financial-exposure.md
-│       ├── 07-defence-settlement-strategy.md
-│       ├── 08-customer-response-drafts.md
-│       ├── 09-action-checklist.md
-│       ├── 10-source-verification.md
-│       └── README.md
+│   ├── 2026-10-11/
+│   │   ├── 00-management-summary.md
+│   │   ├── 01-executive-decision-memo.md
+│   │   ├── 02-evidence-liability-matrix.md
+│   │   ├── 03-legal-liability.md
+│   │   ├── 04-case-law-comparison.md
+│   │   ├── 05-medical-risk.md
+│   │   ├── 06-financial-exposure.md
+│   │   ├── 07-defence-settlement-strategy.md
+│   │   ├── 08-customer-response-drafts.md
+│   │   ├── 09-action-checklist.md
+│   │   ├── 10-source-verification.md
+│   │   └── README.md
+│   └── 2026-10-12/
+│       └── evidence-update.md
 ├── evidence/
 │   ├── private-local/  [本機受限，不追蹤Git]
 │   │   ├── restricted/  核查附錄及來源雜湊
@@ -53,6 +55,7 @@ case-90298156/
 | 更新進度與完成證明 | [actions/next-steps.md](actions/next-steps.md) |
 | 查看現行草稿及批准／發送狀態 | [responses/README.md](responses/README.md) |
 | 查看研究及來源 | [audit/2026-10-11/README.md](audit/2026-10-11/README.md) |
+| 查看新增證據及影響 | [audit/2026-10-12/evidence-update.md](audit/2026-10-12/evidence-update.md) |
 | 使用財務模型 | [financial/README.md](financial/README.md) |
 | 查找證據位置與可及限制 | [evidence/README.md](evidence/README.md) |
 
