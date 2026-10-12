@@ -8,7 +8,7 @@
 
 | 現行案件 | 舊編號 | 狀態 | 開始閱讀 |
 | --- | --- | --- | --- |
-| case-90298156 | 60298156、CASE-2026-001 | 12日醫學及設備照片已初評；關鍵調查待執行；未達成和解 | [案件首頁](CASES/case-90298156/README.md) |
+| case-90298156 | 60298156、CASE-2026-001 | 13日擬議971支援草稿；未批准／發送／支付；調查待執行；未和解 | [案件首頁](CASES/case-90298156/README.md) |
 
 ## 目前案件入口
 
@@ -18,6 +18,7 @@
 - [完整研究包](CASES/case-90298156/audit/2026-10-11/README.md)
 - [12日補充證據更新](CASES/case-90298156/audit/2026-10-12/evidence-update.md)
 - [設備參數及時鐘初評](CASES/case-90298156/audit/2026-10-12/device-parameter-review.md)
+- [HK$971醫療費支援方案及付款狀態](CASES/case-90298156/audit/2026-10-12/medical-expense-support.md)
 - [證據保存與存取](CASES/case-90298156/evidence/storage-and-access.md)
 
 ## 共用資料

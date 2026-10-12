@@ -22,6 +22,8 @@
 
 公司待辦以實際完成證明核對。研究或結構整理完成，不等於保險通知、法律審閱、交付、批准、發送或付款完成。
 
+12日最新13日草稿包含HK$971善意醫療費支援，詳見`audit/2026-10-12/medical-expense-support.md`。這是使用者要求草擬的方案，未獲最終批准、未發送或支付。N13追蹤付款狀態，N05先核對本公司保單及必要同意；不把起草授權當作聯絡客戶／保險人或付款授權。付款不作全面解除條件，不把不承認責任字句或Without Prejudice標籤當法律／保險保證。
+
 ## 受限本機資料
 
 `evidence/private-local/restricted/medical-evidence-and-source-audit.md`保存醫學及原圖核對；`source-register.csv`保存57個來源成員的雜湊。`evidence/private-local/source-work/`保存來源工作副本、OCR、manifest及模型核查支援。這些路徑本機可及但不在GitHub；其他代理若沒有檔案或權限，記錄未能取得，不宣稱已讀取。
