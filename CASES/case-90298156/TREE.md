@@ -27,7 +27,8 @@ case-90298156/
 │       ├── evidence-update.md
 │       ├── hypothetical-best-case-recollection.md  [純假設，不是證據]
 │       ├── medical-expense-support.md
-│       └── records-gap-and-response-plan.md
+│       ├── records-gap-and-response-plan.md
+│       └── two-week-recovery-cost-scenarios.md  [預算假設]
 ├── evidence/
 │   ├── private-local/  [本機受限，不追蹤Git]
 │   │   ├── restricted/  核查附錄及來源雜湊

@@ -20,6 +20,7 @@ Millie Beau Limited／OLase Beauty尖沙咀分店，2026年10月4日療程及服
 | 6–7 J/cm²、設備時鐘及冷卻的限制 | [設備參數初評](audit/2026-10-12/device-parameter-review.md) |
 | 擬議醫療費支援及付款狀態 | [HK$971方案](audit/2026-10-12/medical-expense-support.md) |
 | 最有利回憶書的純假設模擬（不是證據） | [模擬文字及條件分析](audit/2026-10-12/hypothetical-best-case-recollection.md) |
+| 兩星期康復時的具體支出情境 | [預算及限制](audit/2026-10-12/two-week-recovery-cost-scenarios.md) |
 | 假設、成本及模型 | [財務說明](financial/README.md) |
 | 外部證據及本機受限資料 | [證據入口](evidence/README.md) |
 
