@@ -19,6 +19,7 @@
 - [12日補充證據更新](CASES/case-90298156/audit/2026-10-12/evidence-update.md)
 - [設備參數及時鐘初評](CASES/case-90298156/audit/2026-10-12/device-parameter-review.md)
 - [HK$971醫療費支援方案及付款狀態](CASES/case-90298156/audit/2026-10-12/medical-expense-support.md)
+- [四日設備紀錄、回憶書及20日更新部署](CASES/case-90298156/audit/2026-10-12/records-gap-and-response-plan.md)
 - [證據保存與存取](CASES/case-90298156/evidence/storage-and-access.md)
 
 ## 共用資料

@@ -25,7 +25,8 @@ case-90298156/
 │   └── 2026-10-12/
 │       ├── device-parameter-review.md
 │       ├── evidence-update.md
-│       └── medical-expense-support.md
+│       ├── medical-expense-support.md
+│       └── records-gap-and-response-plan.md
 ├── evidence/
 │   ├── private-local/  [本機受限，不追蹤Git]
 │   │   ├── restricted/  核查附錄及來源雜湊
@@ -39,7 +40,7 @@ case-90298156/
 │   ├── archive/
 │   │   └── CASE-2026-001-replies.md
 │   ├── 2026-10-13.md
-│   ├── 2026-10-16.md
+│   ├── 2026-10-20.md
 │   ├── README.md
 │   └── settlement-discussion.md
 ├── AGENTS.md
@@ -59,6 +60,7 @@ case-90298156/
 | 查看研究及來源 | [audit/2026-10-11/README.md](audit/2026-10-11/README.md) |
 | 查看新增證據及影響 | [audit/2026-10-12/evidence-update.md](audit/2026-10-12/evidence-update.md) |
 | 查設備設定及時鐘限制 | [audit/2026-10-12/device-parameter-review.md](audit/2026-10-12/device-parameter-review.md) |
+| 查紀錄缺口及20日更新選項 | [部署](audit/2026-10-12/records-gap-and-response-plan.md) |
 | 查971支援及實際付款狀態 | [audit/2026-10-12/medical-expense-support.md](audit/2026-10-12/medical-expense-support.md) |
 | 使用財務模型 | [financial/README.md](financial/README.md) |
 | 查找證據位置與可及限制 | [evidence/README.md](evidence/README.md) |
