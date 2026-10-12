@@ -19,6 +19,7 @@ Millie Beau Limited／OLase Beauty尖沙咀分店，2026年10月4日療程及服
 | 新增資料對分析及回覆的影響 | [12日補充證據更新](audit/2026-10-12/evidence-update.md) |
 | 6–7 J/cm²、設備時鐘及冷卻的限制 | [設備參數初評](audit/2026-10-12/device-parameter-review.md) |
 | 擬議醫療費支援及付款狀態 | [HK$971方案](audit/2026-10-12/medical-expense-support.md) |
+| 最有利回憶書的純假設模擬（不是證據） | [模擬文字及條件分析](audit/2026-10-12/hypothetical-best-case-recollection.md) |
 | 假設、成本及模型 | [財務說明](financial/README.md) |
 | 外部證據及本機受限資料 | [證據入口](evidence/README.md) |
 
@@ -35,3 +36,5 @@ Millie Beau Limited／OLase Beauty尖沙咀分店，2026年10月4日療程及服
 設備照片的6–7 J/cm²在查得的18 mm／755 nm廠方可調規格低端，但設備時鐘偏差及本案行／部位對應未確認，部分冷卻欄亦待解釋。先保全日誌並調取適用手冊、校準及實際冷卻，不向客戶聲稱「低度數所以不會燒傷」。
 
 本資料夾是本案唯一現行入口。原始證據檔名及EV編號維持原樣，敏感工作副本只在`evidence/private-local/`本機路徑。外部Drive使用舊編號屬來源保存，不另開重複案件。
+
+12日按使用者明確選擇完成最有利情境模擬，分開「只有回憶書」與「另獲可靠核對及專業支持」兩層。模擬不是員工陳述，不能簽署或作對外證據；原回憶書仍未閱，實際責任、康復、草稿及付款狀態不變。

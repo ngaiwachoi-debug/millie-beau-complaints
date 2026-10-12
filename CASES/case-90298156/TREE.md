@@ -25,6 +25,7 @@ case-90298156/
 │   └── 2026-10-12/
 │       ├── device-parameter-review.md
 │       ├── evidence-update.md
+│       ├── hypothetical-best-case-recollection.md  [純假設，不是證據]
 │       ├── medical-expense-support.md
 │       └── records-gap-and-response-plan.md
 ├── evidence/
@@ -62,6 +63,7 @@ case-90298156/
 | 查設備設定及時鐘限制 | [audit/2026-10-12/device-parameter-review.md](audit/2026-10-12/device-parameter-review.md) |
 | 查紀錄缺口及20日更新選項 | [部署](audit/2026-10-12/records-gap-and-response-plan.md) |
 | 查971支援及實際付款狀態 | [audit/2026-10-12/medical-expense-support.md](audit/2026-10-12/medical-expense-support.md) |
+| 查看最有利回憶書純假設及條件分析 | [模擬](audit/2026-10-12/hypothetical-best-case-recollection.md) |
 | 使用財務模型 | [financial/README.md](financial/README.md) |
 | 查找證據位置與可及限制 | [evidence/README.md](evidence/README.md) |
 
