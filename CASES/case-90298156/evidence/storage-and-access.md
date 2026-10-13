@@ -68,3 +68,7 @@ Millie Beau Limited - Confidential Complaints/
 ## 2026年10月13日CRM及本人交付副本
 
 使用者提供公司Excel，來源副本及內部核對存`evidence/private-local/source-work/crm-2026-10-13/`，逐檔來源與交付雜湊另存本機manifest。來源含其他客戶及人事資料，整檔不交客戶或Git。本人交付包存`evidence/private-local/outputs/01a12b64-a18b-76d3-924c-7ac3af27e3e7/delivery-2026-10-13/`，包含必要遮蓋及來源說明；未實際交付，外部備份未確認，原圖及來源未改。[準備清單](../audit/2026-10-13/records-delivery-preparation.md)。
+
+## 13日CRM來源更正（最新）
+
+最新來源MilliebeauCRM (3).xlsx及中間版(1)均保存受限位元組副本，來源原件不改。使用者確認(3)為現行；初版交付包加已取代標示，最新包在delivery-2026-10-13-corrected-v3，外部備份及實際送達仍未確認。
