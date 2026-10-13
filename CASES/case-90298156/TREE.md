@@ -22,13 +22,15 @@ case-90298156/
 │   │   ├── 09-action-checklist.md
 │   │   ├── 10-source-verification.md
 │   │   └── README.md
-│   └── 2026-10-12/
+│   ├── 2026-10-12/
 │       ├── device-parameter-review.md
 │       ├── evidence-update.md
 │       ├── hypothetical-best-case-recollection.md  [純假設，不是證據]
 │       ├── medical-expense-support.md
 │       ├── records-gap-and-response-plan.md
 │       └── two-week-recovery-cost-scenarios.md  [預算假設]
+│   └── 2026-10-13/
+│       └── customer-escalation.md
 ├── evidence/
 │   ├── private-local/  [本機受限，不追蹤Git]
 │   │   ├── restricted/  核查附錄及來源雜湊
@@ -41,6 +43,7 @@ case-90298156/
 ├── responses/
 │   ├── archive/
 │   │   └── CASE-2026-001-replies.md
+│   ├── 2026-10-13-escalation-acknowledgment.md
 │   ├── 2026-10-13.md
 │   ├── 2026-10-20.md
 │   ├── README.md

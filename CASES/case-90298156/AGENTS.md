@@ -39,3 +39,7 @@
 EV-013另見同受限目錄`device-evidence-update-2026-10-12.md`及`device-source-register-2026-10-12.csv`；副本在`source-work/device-evidence-2026-10-12/`，manifest在`source-work/device-evidence-2026-10-12-manifest.json`。不可把未知日期畫面改寫成客戶當日機器日誌。
 
 只在必要範圍讀取，醫學原文及私密影像不複製到追蹤文件、公開輸出或Git。更新狀態、決策與證據位置時，同步維護案卷、待辦和相關索引，保留實際日期。
+
+## 13日升級後狀態優先
+
+客戶拒絕971、照片及近況補交，表明終止私下協商。新貼文稱收到13日公司訊息，實際已發版本待核對；不得把舊草稿未發標籤當沒有公司回覆的證明。以`audit/2026-10-13/customer-escalation.md`及`responses/2026-10-13-escalation-acknowledgment.md`為最新入口，原13日／20日及和解稿暫停直接使用。沒有新付款、外部案號、醫學康復或完成調查證明。勿把姓名及原貼文簽署複製Git。
