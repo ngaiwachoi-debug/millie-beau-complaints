@@ -14,3 +14,5 @@
 | 工作副本、OCR及manifest | 本機`private-local/source-work/`，不追蹤Git |
 
 當日設備／DCD、完整原帳與對話、保單及康復仍有缺口，依[下一步](../actions/next-steps.md)調取。沒有實際取得、權限或來源核對時，記錄限制，不把原AI摘要當已確認。
+
+13日另收到公司CRM Excel，按本人電話去重31筆系統紀錄。來源副本、逐列核對及交付包僅在`private-local/`；詳見[準備狀態](../audit/2026-10-13/records-delivery-preparation.md)。原61張圖檔基準不重編；新表不代表完整逐次服務、設備或銀行收款證明。

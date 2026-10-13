@@ -30,10 +30,12 @@ case-90298156/
 │       ├── records-gap-and-response-plan.md
 │       └── two-week-recovery-cost-scenarios.md  [預算假設]
 │   └── 2026-10-13/
-│       └── customer-escalation.md
+│       ├── customer-escalation.md
+│       └── records-delivery-preparation.md
 ├── evidence/
 │   ├── private-local/  [本機受限，不追蹤Git]
 │   │   ├── restricted/  核查附錄及來源雜湊
+│   │   ├── outputs/  本人交付包，未發送
 │   │   └── source-work/  工作副本、OCR及支援
 │   ├── README.md
 │   └── storage-and-access.md

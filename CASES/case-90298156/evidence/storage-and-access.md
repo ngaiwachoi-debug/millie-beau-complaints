@@ -64,3 +64,7 @@ Millie Beau Limited - Confidential Complaints/
 57張來源保存不等於取得當日激光／DCD、完整原帳、原生聊天、醫療機構病歷、後續康復或保單。具體缺口、負責角色及完成證明見[下一步](../actions/next-steps.md)。
 
 新臨床資料及對話進入既有受控證據庫；Git只更新必要結論及狀態。公司批准或發送後，原始訊息、附件及送達證明另存受控資料，不把未發送草稿當作已發出。
+
+## 2026年10月13日CRM及本人交付副本
+
+使用者提供公司Excel，來源副本及內部核對存`evidence/private-local/source-work/crm-2026-10-13/`，逐檔來源與交付雜湊另存本機manifest。來源含其他客戶及人事資料，整檔不交客戶或Git。本人交付包存`evidence/private-local/outputs/01a12b64-a18b-76d3-924c-7ac3af27e3e7/delivery-2026-10-13/`，包含必要遮蓋及來源說明；未實際交付，外部備份未確認，原圖及來源未改。[準備清單](../audit/2026-10-13/records-delivery-preparation.md)。
