@@ -72,3 +72,7 @@ Millie Beau Limited - Confidential Complaints/
 ## 13日CRM來源更正（最新）
 
 最新來源MilliebeauCRM (3).xlsx及中間版(1)均保存受限位元組副本，來源原件不改。使用者確認(3)為現行；初版交付包加已取代標示，最新包在delivery-2026-10-13-corrected-v3，外部備份及實際送達仍未確認。
+
+### 14日訊息及附件交叉核對（13日完成）
+
+最新14日擬交付位置為evidence/private-local/outputs/01a12b64-a18b-76d3-924c-7ac3af27e3e7/delivery-2026-10-14-send-package/。紀錄原值在extraction-audit-send-package.json保留，公開給客戶的副本只顯示香港時間；轉換依據為使用者確認所有原值UTC。交付ZIP只有三個客戶文件，未交付、未更改共享權限。

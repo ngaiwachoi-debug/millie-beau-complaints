@@ -49,3 +49,7 @@ EV-013另見同受限目錄`device-evidence-update-2026-10-12.md`及`device-sour
 ## 13日CRM來源更正（最新）
 
 現行CRM附件來源是使用者最新確認的MilliebeauCRM (3).xlsx；初版及(1)已取代。讀audit/2026-10-13/records-delivery-preparation.md的最上方更正區塊，勿以歷史31筆／10筆或跳扣結論當最新結果。現行36筆／15筆不等於已證明服務次數。
+
+### 14日訊息及附件交叉核對（13日完成）
+
+14日交付包及訊息以responses/2026-10-14-acknowledgement.md為準，稱謂改「客戶」且所有UTC原值按使用者確認轉香港時間，未標時區也不再照原鐘點展示。私人來源及原值仍保存，不把轉換值當實際療程時間或宣稱交付已完成。
