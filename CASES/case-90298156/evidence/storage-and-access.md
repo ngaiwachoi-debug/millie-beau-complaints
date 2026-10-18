@@ -76,3 +76,7 @@ Millie Beau Limited - Confidential Complaints/
 ### 14日訊息及附件交叉核對（13日完成）
 
 最新14日擬交付位置為evidence/private-local/outputs/01a12b64-a18b-76d3-924c-7ac3af27e3e7/delivery-2026-10-14-send-package/。紀錄原值在extraction-audit-send-package.json保留，公開給客戶的副本只顯示香港時間；轉換依據為使用者確認所有原值UTC。交付ZIP只有三個客戶文件，未交付、未更改共享權限。
+
+## 2026年10月18日最新
+
+18日收到7個影像，逐檔SHA-256核對一致，6個獨立雜湊、總10,761,361 bytes。來源副本存evidence/private-local/source-work/new-evidence-2026-10-18/，manifest及OCR在source-work；受限核對為restricted/medical-and-employee-update-2026-10-18.md。原檔名保留，重複備忘錄及既有費項不重複計算；外部備份未確認，不入Git。

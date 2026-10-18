@@ -29,9 +29,11 @@ case-90298156/
 │       ├── medical-expense-support.md
 │       ├── records-gap-and-response-plan.md
 │       └── two-week-recovery-cost-scenarios.md  [預算假設]
-│   └── 2026-10-13/
+│   ├── 2026-10-13/
 │       ├── customer-escalation.md
 │       └── records-delivery-preparation.md
+│   └── 2026-10-18/
+│       └── settlement-and-evidence-update.md
 ├── evidence/
 │   ├── private-local/  [本機受限，不追蹤Git]
 │   │   ├── restricted/  核查附錄及來源雜湊
@@ -49,6 +51,7 @@ case-90298156/
 │   ├── 2026-10-13-customer-response-summary.md
 │   ├── 2026-10-13.md
 │   ├── 2026-10-14-acknowledgement.md
+│   ├── 2026-10-18-counteroffer.md
 │   ├── 2026-10-20.md
 │   ├── README.md
 │   └── settlement-discussion.md
